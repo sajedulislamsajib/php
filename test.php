@@ -1,5 +1,4 @@
 <?php
 
-$fname = "Sajedul Islam";
-$lname = "Sajib";
-printf("His %s name is %s %s","Full",strtoupper($fname),strrev($lname));
+$x =$y =2;
+echo $x,"\n",$y;
