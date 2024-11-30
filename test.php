@@ -1,6 +1,5 @@
 <?php
-echo 'Hello';
-echo "\n";
-echo 123;
-$name = "Earth";
-var_dump($name);
+
+$fname = "Sajedul Islam";
+$lname = "Sajib";
+printf("His %s name is %s %s","Full",$fname,$lname);
